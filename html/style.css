@@ -1,0 +1,48 @@
+body {
+	margin: auto;
+	background: #f1f1f1;
+	font-family: "Helvetica";
+
+}
+
+.section1 {
+	margin: auto;
+	color: #f1f1f1;
+	display: block;
+	background-color: #000;
+}
+
+.section2 {
+	display: block;
+}
+
+#head {
+padding-left: 20px;
+float: left;
+}	
+
+
+.nav {
+	float: right;
+	display: inline-block;
+	margin: 30px;
+}
+
+a {
+	text-decoration: none;
+	color: #f1f1f1;
+}
+
+.section2 {
+	display: block;
+	margin:auto;
+	margin-top: 100px;
+	width:75%;
+
+}
+
+.test {
+	width: 300px;
+	height: 300px;
+}
+
